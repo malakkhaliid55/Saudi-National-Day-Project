@@ -11,4 +11,4 @@ Project Features
 • Interactive graphical design celebrating Saudi National Day.
 How to Run
 Run Saudi-National-Day.py using Python 3.
-دام عزك يا وطن 
+دام عزك يا وطن
